@@ -4,6 +4,6 @@ Closure XML - A Common Lisp XML Parser.
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/sharplispers/cxml.git |
-| commit  | 8701da0                                      |
+| commit  | 2d8fa42                                      |
 | systems | cxml                                         |
 |---------+----------------------------------------------|
